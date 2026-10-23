@@ -2,11 +2,11 @@
 
 ## Preview
 
-![RateRelay workflow preview](assets/scenario-preview.png)
+![RateRelay workflow](Scenario.png)
 
 *The Make.com scenario: an HTTP module fetches the latest USD rates, then Google Sheets adds a new row.*
 
-![Google Sheet output](assets/sheet-output.png)
+![Google Sheet output](sheet_output.png)
 
 *Each run appends a timestamped row with the USD, INR and EUR rates.*
 
